@@ -3,7 +3,7 @@ Library for simple networking
 
 ## Overview
 
-This library was developed to simplify robust TCP network communication. A short description of the included projects is below and momre information can be found in the wiki page
+This library was developed to simplify robust TCP network communication. A short description of the included projects is below and more information can be found in the [wiki](https://github.com/LessonsLearnedInDotNET/LL.NET.Networking/wiki) page
 
 * CommonLib
   * Components for basic TCP networking
